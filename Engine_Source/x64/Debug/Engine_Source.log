@@ -1,0 +1,18 @@
+﻿  yaApplication.cpp
+C:\Users\dkdpa\source\repos\KYJSpelunky2\Engine_Source\yaMath.h(15,1): warning C4005: 'XM_CONSTEXPR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\DirectXMath.h(37): message : 'XM_CONSTEXPR'의 이전 정의를 참조하십시오.
+C:\Users\dkdpa\source\repos\KYJSpelunky2\Engine_Source\yaGraphicsDevice11.h(45,23): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\dkdpa\source\repos\KYJSpelunky2\Engine_Source\yaGraphicsDevice11.h(45,23): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+  yaGraphicsDevice11.cpp
+C:\Users\dkdpa\source\repos\KYJSpelunky2\Engine_Source\yaMath.h(15,1): warning C4005: 'XM_CONSTEXPR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\DirectXMath.h(37): message : 'XM_CONSTEXPR'의 이전 정의를 참조하십시오.
+C:\Users\dkdpa\source\repos\KYJSpelunky2\Engine_Source\yaGraphicsDevice11.h(45,23): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\dkdpa\source\repos\KYJSpelunky2\Engine_Source\yaGraphicsDevice11.h(45,23): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+C:\Users\dkdpa\source\repos\KYJSpelunky2\Engine_Source\yaGraphicsDevice11.cpp(69,73): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+  yaRenderer.cpp
+C:\Users\dkdpa\source\repos\KYJSpelunky2\Engine_Source\yaMath.h(15,1): warning C4005: 'XM_CONSTEXPR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\DirectXMath.h(37): message : 'XM_CONSTEXPR'의 이전 정의를 참조하십시오.
+C:\Users\dkdpa\source\repos\KYJSpelunky2\Engine_Source\yaGraphicsDevice11.h(45,23): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\dkdpa\source\repos\KYJSpelunky2\Engine_Source\yaGraphicsDevice11.h(45,23): message : 이 멤버는 기본값으로 설정된 생성자 또는 복사/이동 대입 연산자에서 무시됩니다.
+  코드를 생성하고 있습니다...
+  Engine_Source.vcxproj -> C:\Users\dkdpa\source\repos\KYJSpelunky2\x64\Debug\Lib\Engine_Source.lib
